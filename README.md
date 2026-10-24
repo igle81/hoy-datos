@@ -16,4 +16,5 @@ Estos ficheros se publican para que funcione la web de Hoy. Si los reutilizas:
 
 - **Cita la fuente original** que lleva cada fichero en `fuente` y respeta sus condiciones: REE (condiciones de uso de apidatos), Colegio Oficial de Farmacéuticos de Asturias (las guardias son suyas; consúltalo antes de reutilizarlas) y Ministerio para la Transición Ecológica y el Reto Demográfico (Geoportal de carburantes). Las coordenadas de las farmacias de Avilés vienen de CartoCiudad (IGN-CNIG), CC BY 4.0 scne.es.
 - **Sin garantía:** pueden estar incompletos o desfasados. Mira siempre la fecha de cada fichero. Para urgencias, llama al 112; antes de ir a una farmacia, llama.
+- **`farmacias.json`, origen y finalidad:** los datos vienen del Colegio Oficial de Farmacéuticos de Asturias, que los publica él mismo (incluidos los nombres de los titulares de las farmacias). Se usan solo para informar de la farmacia de guardia.
 - No hay datos personales más allá de los nombres, direcciones y teléfonos públicos de las farmacias, tal y como los publica el COF.
